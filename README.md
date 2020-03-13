@@ -5,10 +5,15 @@ Based on the available sample data that consits of the profile of insured custom
 # insured Customer Data:
 The insured customers data file is in a csv file. You can find the file in this project. It ha sthe information of
 1 age
+
 2 sex
+
 3 BMI
+
 4 Smoker (yes, no)
+
 5 Region (Northeast, Northwest, Southeast, Southwest)
+
 6 Expenses
 
 The value we want to predict is the total Expenses.
